@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "mern learning application",
+  "mongoUri": "mongodb+srv://admin:1234qwer@cluster0.fiwcy.mongodb.net/mern?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
